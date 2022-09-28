@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Diary {
-    private List<Entry> entries = new ArrayList<>();
+    private final List<Entry> entries = new ArrayList<>();
     private boolean hasEmptyEntry;
 
     public boolean hasEmptyEntry() {
