@@ -1,0 +1,12 @@
+[submodule "HealthManagementSystem"]
+	path = HealthManagementSystem
+	url = https://github.com/Luminaries-C11/HealthManagementSystem
+[submodule "TrueCaller"]
+	path = TrueCaller
+	url = https://github.com:ucskyship/TrueCaller
+[submodule "airLineReservation"]
+	path = airLineReservation
+	url = https://github.com:ucskyship/AirLineReservation
+[submodule "sayMeBlog"]
+	path = sayMeBlog
+	url = https://github.com:ucskyship/sayMeBlogRepo
