@@ -1,4 +1,4 @@
-package chapter15;
+package writingToFiles;
 
 import java.io.*;
 
