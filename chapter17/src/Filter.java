@@ -1,8 +1,6 @@
-import di.Human;
-
 import java.util.stream.IntStream;
 
-public class MainRunner {
+public class Filter {
     public static void main(String[] args) {
 //        Human human = () -> System.out.println("I'm a princess");
 //        human.speak();

@@ -1,6 +1,7 @@
 package com.ucj.diary.exceptions;
 
-public class DiaryAlreadyExistException extends Throwable {
-    public DiaryAlreadyExistException(String diary_already_exist) {
+public class DiaryAlreadyExistException extends Exception {
+    public DiaryAlreadyExistException(String message) {
+        super(message);
     }
 }

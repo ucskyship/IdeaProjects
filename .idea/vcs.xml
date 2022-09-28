@@ -2,15 +2,27 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DiaryApp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EMR - projects/EMR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HealthManagementSystem" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA-WORKS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA-WORKS/CLASS_WORK" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA-WORKS/CLASS_WORK/cLASS/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA-WORKS/CLASS_WORK/cLASS_tutorial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA-WORKS/CLASS_WORK/cLASS_tutorial/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JAVA-WORKS/CLASS_WORK/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TrueCaller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/airLineReservation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/autowire-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/autowire-example2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binarySearch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chapter11/EMR_Project/EMR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chapter15" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chapter3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/databaseConnectivity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diaryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/luminaryHospital" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/new_truecaller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sayMeBlog" vcs="Git" />
   </component>
 </project>

@@ -23,7 +23,13 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter5/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/chapter4/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/new_truecaller/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/new_truecaller/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TrueCaller/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter16/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter16/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HealthManagementSystem/health-record/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HealthManagementSystem/user/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter17/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter15/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -44,6 +50,15 @@
           <root url="jar://$USER_HOME$/.ideaLibSources/junit-jupiter-api-5.8.1-sources.jar!/" />
           <root url="jar://$USER_HOME$/.ideaLibSources/junit-jupiter-api-5.8.1-sources.jar!/" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
       </library>
     </orderEntry>
   </component>

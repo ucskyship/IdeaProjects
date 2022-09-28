@@ -1,4 +1,4 @@
-package com.ucj.diary.dtos.responses;
+package com.ucj.diary.data.dtos.responses;
 
 import com.ucj.diary.data.models.Diary;
 import lombok.Data;

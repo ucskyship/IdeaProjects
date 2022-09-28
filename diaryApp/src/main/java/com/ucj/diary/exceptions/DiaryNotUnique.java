@@ -1,7 +1,7 @@
 package com.ucj.diary.exceptions;
 
-public class UserAlreadyHasADiary extends RuntimeException {
-    public UserAlreadyHasADiary(String message) {
+public class DiaryNotUnique extends RuntimeException {
+    public DiaryNotUnique(String message) {
         super(message);
     }
 }

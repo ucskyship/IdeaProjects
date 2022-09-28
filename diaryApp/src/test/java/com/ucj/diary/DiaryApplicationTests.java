@@ -1,7 +1,8 @@
-package com.example.diary6;
+package com.ucj.diary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+
 
 @SpringBootTest
 class DiaryApplicationTests {

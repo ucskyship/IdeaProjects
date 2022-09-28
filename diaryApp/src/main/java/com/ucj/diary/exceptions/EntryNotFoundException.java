@@ -1,7 +1,7 @@
 package com.ucj.diary.exceptions;
 
-public class EntryDoesNotExistException extends Throwable {
-    public EntryDoesNotExistException(String message) {
+public class EntryNotFoundException extends Exception {
+    public EntryNotFoundException(String message) {
         super(message);
     }
 }

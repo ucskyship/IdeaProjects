@@ -1,4 +1,6 @@
-public class FunctionalInterfaceSample {
+package functionalInterface1;
+
+public class FunctionalInterface1 {
     public static void main(String[] args) {
 //        Staff staff = (hours) ->
 //            System.out.println("Working for " + hours + " hours a day");

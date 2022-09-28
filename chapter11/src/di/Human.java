@@ -16,4 +16,7 @@ public class Human {
     public void walk(){
         walkInPidgin.walk();
     }
+
+    public void speak() {
+    }
 }

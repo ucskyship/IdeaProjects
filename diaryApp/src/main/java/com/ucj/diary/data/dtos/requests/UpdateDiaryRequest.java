@@ -1,4 +1,4 @@
-package com.ucj.diary.dtos.requests;
+package com.ucj.diary.data.dtos.requests;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,6 +1,9 @@
 package com.ucj.diary.exceptions;
 
-public class UserAlreadyExistException extends Throwable {
-    public UserAlreadyExistException(String user_already_exist) {
+import org.springframework.http.HttpStatus;
+
+public class UserAlreadyExistException extends Exception {
+    public UserAlreadyExistException(String message, HttpStatus badRequest) {
+        super(message);
     }
 }

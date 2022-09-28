@@ -1,4 +1,4 @@
-package com.ucj.diary.dtos.requests;
+package com.ucj.diary.data.dtos.requests;
 
 import lombok.Data;
 import lombok.Getter;
@@ -10,4 +10,6 @@ import lombok.Setter;
 public class RegisterEntryRequest {
     private String tittle;
     private String body;
+
+    private String diaryName;
 }

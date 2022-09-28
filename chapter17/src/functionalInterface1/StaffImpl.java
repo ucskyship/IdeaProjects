@@ -1,4 +1,6 @@
-public class StaffImpl implements Staff{
+package functionalInterface1;
+
+public class StaffImpl implements Staff {
 
     @Override
     public void work(int hours) {

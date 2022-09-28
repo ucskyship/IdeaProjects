@@ -1,6 +1,7 @@
 package com.ucj.diary.exceptions;
 
-public class UserNotFoundException extends Throwable {
-    public UserNotFoundException(String user_not_found) {
+public class UserNotFoundException extends Exception {
+    public UserNotFoundException(String message) {
+        super(message);
     }
 }

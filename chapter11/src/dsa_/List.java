@@ -1,6 +1,6 @@
 package dsa_;
 
-public interface List {
+public interface List<C> {
     boolean isEmpty();
 
     void add(String item);
